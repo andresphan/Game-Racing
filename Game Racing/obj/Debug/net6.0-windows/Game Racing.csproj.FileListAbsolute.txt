@@ -1,0 +1,18 @@
+C:\Users\84911\Desktop\Game Racing\Game Racing\bin\Debug\net6.0-windows\Game Racing.exe
+C:\Users\84911\Desktop\Game Racing\Game Racing\bin\Debug\net6.0-windows\Game Racing.deps.json
+C:\Users\84911\Desktop\Game Racing\Game Racing\bin\Debug\net6.0-windows\Game Racing.runtimeconfig.json
+C:\Users\84911\Desktop\Game Racing\Game Racing\bin\Debug\net6.0-windows\Game Racing.dll
+C:\Users\84911\Desktop\Game Racing\Game Racing\bin\Debug\net6.0-windows\Game Racing.pdb
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.csproj.AssemblyReference.cache
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game_Racing.Form1.resources
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game_Racing.Properties.Resources.resources
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.csproj.GenerateResource.cache
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.AssemblyInfoInputs.cache
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.AssemblyInfo.cs
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.csproj.CoreCompileInputs.cache
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.dll
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\refint\Game Racing.dll
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.pdb
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\Game Racing.genruntimeconfig.cache
+C:\Users\84911\Desktop\Game Racing\Game Racing\obj\Debug\net6.0-windows\ref\Game Racing.dll
